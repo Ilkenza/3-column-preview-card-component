@@ -17,7 +17,7 @@ body{
   display: flex;
   height: 500px;
 }
-.all-category h1 {
+.all-category h2 {
   color: hsl(0deg, 0%, 95%);
   font-family: "Big Shoulders Display", cursive;
 }
